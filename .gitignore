@@ -1,0 +1,23 @@
+# Ignore PyCharm files
+/.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore Flask instance files
+instance/
+
+# Ignore log files
+logs/
+
+# Ignore database files
+db.sqlite3
+database/database.csv
+database/database_old.csv
+database/product_new.csv
+
+.venv
